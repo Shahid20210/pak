@@ -13,7 +13,7 @@ pkg install git
 ```
 4. Clone this repository
 ```
-git clone https://github.com/Ramonymous/ThePAK
+git clone https://github.com/Shahid20210/pak
 ```
 5. Open ThePAK directory and run setup.
 ```
